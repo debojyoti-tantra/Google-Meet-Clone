@@ -71,7 +71,7 @@ const MainPageLeftPart = () => {
   
   return (
     <div className="flex flex-col mt-11 sm:mt-36 gap-3 m-5">
-      <h1 className="text-5xl">Video calls and mettings for eneryone</h1>
+      <h1 className="text-5xl">Video calls and meetings for everyone</h1>
       <p className="text-xl">Connect, collaborate, and celebrate from anywhere with Debo-Meet</p>
       <div className="flex flex-col sm:flex-row gap-2">
         <DropdownMenu>
